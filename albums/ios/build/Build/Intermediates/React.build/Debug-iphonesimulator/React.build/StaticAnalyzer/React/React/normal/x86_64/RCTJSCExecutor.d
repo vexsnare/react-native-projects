@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/vinay/rnl/albums/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/vinay/rnl/albums/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/vinay/rnl/albums/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/vinay/rnl/albums/node_modules/react-native/React/Base/RCTUtils.h
